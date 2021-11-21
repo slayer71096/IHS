@@ -1,0 +1,80 @@
+
+[11/14/2021 9:14:02 PM] Alarm will be armed in 10s
+[11/14/2021 9:14:11 PM] Alarm Armed (Manually)
+[11/14/2021 9:14:12 PM] Alarm Activates! (Due to intrusion)
+[11/14/2021 9:14:20 PM] Alarm Disarmed (Manually)
+[11/14/2021 9:14:23 PM] Automatic arming at: 21H15
+[11/14/2021 9:14:26 PM] Automatic Disarm at: 21H16
+[11/14/2021 9:15:00 PM] Alarm Armed (Automatically)
+[11/14/2021 9:15:00 PM] Alarm Activates! (Due to intrusion)
+[11/14/2021 9:16:00 PM] Alarm Disarm (Automatically)
+[11/14/2021 9:16:30 PM] Exterior Mode Activated
+[11/14/2021 9:16:30 PM] Alarm Disarm (Automatically)
+[11/14/2021 9:16:39 PM] Presence Illumination Activated
+
+[11/15/2021 9:21:27 PM] Alarm will be armed in 10s
+[11/15/2021 9:21:36 PM] Alarm Armed (Manually)
+[11/15/2021 9:21:43 PM] Alarm Activates! (Due to intrusion)
+[11/15/2021 9:21:57 PM] Alarm Disarmed (Manually)
+
+[11/18/2021 3:00:15 PM] Alarm will be armed in 10s
+[11/18/2021 3:00:24 PM] Alarm Armed (Manually)
+[11/18/2021 3:01:16 PM] Alarm Activates! (Due to intrusion)
+[11/18/2021 3:02:12 PM] INCORRET PIN!!! Unsuccessful disarming attempt: (1)
+[11/18/2021 3:02:45 PM] Disarm Alarms first
+[11/18/2021 3:02:46 PM] Alarm Disarmed (Manually)
+[11/18/2021 3:02:59 PM] Exterior Mode Activated
+[11/18/2021 3:03:11 PM] Alarm Activates! (Due to intrusion)
+[11/18/2021 3:04:03 PM] Alarm Disarmed (Manually)
+[11/18/2021 3:04:17 PM] Automatic arming at: 15H5
+[11/18/2021 3:04:35 PM] Automatic Disarm at: 15H6
+[11/18/2021 3:05:00 PM] Alarm Armed (Automatically)
+[11/18/2021 3:05:00 PM] Alarm Activates! (Due to intrusion)
+[11/18/2021 3:05:34 PM] INCORRET PIN!!! Unsuccessful disarming attempt: (2)
+[11/18/2021 3:05:40 PM] Alarm Activated! (Due to excessive unsuccessful attempts)
+[11/18/2021 3:06:00 PM] Alarm Disarm (Automatically)
+[11/18/2021 3:06:08 PM] Exterior Mode Activated
+[11/18/2021 3:06:09 PM] Alarm Disarm (Automatically)
+[11/18/2021 3:06:17 PM] The Alarm is already Disarmed
+[11/18/2021 3:06:18 PM] Exterior Mode Activated
+[11/18/2021 3:06:18 PM] Alarm Disarm (Automatically)
+[11/18/2021 3:06:19 PM] Exterior Mode Activated
+[11/18/2021 3:06:19 PM] Alarm Disarm (Automatically)
+[11/18/2021 3:06:34 PM] Exterior Mode Activated
+[11/18/2021 3:06:35 PM] Alarm Disarm (Automatically)
+[11/18/2021 3:07:14 PM] Presence Illumination Activated
+[11/18/2021 3:07:29 PM] Alarm will be armed in 10s
+[11/18/2021 3:07:36 PM] Presence Illumination Disabled
+[11/18/2021 3:07:39 PM] Alarm Armed (Manually)
+[11/18/2021 3:07:40 PM] Alarm Activates! (Due to intrusion)
+[11/18/2021 3:07:50 PM] Presence Illumination Activated
+
+[11/21/2021 1:46:55 PM] Alarm will be armed in 10s
+[11/21/2021 1:47:04 PM] Alarm Armed (Manually)
+[11/21/2021 1:47:11 PM] Alarm Activates! (Due to intrusion)
+[11/21/2021 1:47:19 PM] Disarm Alarms first
+[11/21/2021 1:47:21 PM] Alarm Disarmed (Manually)
+[11/21/2021 1:47:24 PM] Exterior Mode Activated
+[11/21/2021 1:47:35 PM] Alarm Activates! (Due to intrusion)
+[11/21/2021 1:47:38 PM] Presence Illumination Activated
+[11/21/2021 1:47:48 PM] Alarm Disarmed (Manually)
+[11/21/2021 1:47:57 PM] Automatic arming at: 13H48
+[11/21/2021 1:48:00 PM] Alarm Armed (Automatically)
+[11/21/2021 1:48:02 PM] Alarm Activates! (Due to intrusion)
+[11/21/2021 1:48:09 PM] Automatic Disarm at: 13H49
+[11/21/2021 1:49:00 PM] Alarm Disarm (Automatically)
+
+[11/21/2021 1:58:49 PM] Alarm will be armed in 10s
+[11/21/2021 1:58:58 PM] Alarm Armed (Manually)
+[11/21/2021 1:59:05 PM] Alarm Activates! (Due to intrusion)
+[11/21/2021 1:59:13 PM] Presence Illumination Activated
+[11/21/2021 1:59:21 PM] Alarm Disarmed (Manually)
+[11/21/2021 1:59:27 PM] Exterior Mode Activated
+[11/21/2021 1:59:34 PM] Alarm Activates! (Due to intrusion)
+[11/21/2021 1:59:39 PM] Alarm Disarmed (Manually)
+[11/21/2021 1:59:45 PM] Automatic arming at: 14H0
+[11/21/2021 2:00:00 PM] Alarm Armed (Automatically)
+[11/21/2021 2:00:02 PM] Alarm Activates! (Due to intrusion)
+[11/21/2021 1:59:59 PM] Automatic Disarm at: 14H1
+[11/21/2021 2:01:00 PM] Alarm Disarm (Automatically)
+

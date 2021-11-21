@@ -1,0 +1,281 @@
+C:\Users\joaom\source\repos\Alarm3\Alarm3\bin\Debug\Alarm3.exe.config
+C:\Users\joaom\source\repos\Alarm3\Alarm3\bin\Debug\Alarm3.exe
+C:\Users\joaom\source\repos\Alarm3\Alarm3\bin\Debug\Alarm3.pdb
+C:\Users\joaom\source\repos\Alarm3\Alarm3\obj\Debug\Alarm3.csprojAssemblyReference.cache
+C:\Users\joaom\source\repos\Alarm3\Alarm3\obj\Debug\Alarm3.Properties.Resources.resources
+C:\Users\joaom\source\repos\Alarm3\Alarm3\obj\Debug\Alarm3.csproj.GenerateResource.cache
+C:\Users\joaom\source\repos\Alarm3\Alarm3\obj\Debug\Alarm3.csproj.CoreCompileInputs.cache
+C:\Users\joaom\source\repos\Alarm3\Alarm3\obj\Debug\Alarm3.exe
+C:\Users\joaom\source\repos\Alarm3\Alarm3\obj\Debug\Alarm3.pdb
+C:\Users\joaom\source\repos\Alarm3\Alarm3\bin\Debug\K8055D.dll
+C:\Users\joaom\source\repos\Alarm3\Alarm3\obj\Debug\Alarm3.csproj.CopyComplete
+C:\Users\joaom\source\repos\Alarm3\Alarm3\obj\Debug\Alarm3.Form1.resources
+D:\ISH\Alarm3\bin\Debug\Alarm3.exe.config
+D:\ISH\Alarm3\bin\Debug\Alarm3.exe
+D:\ISH\Alarm3\bin\Debug\Alarm3.pdb
+D:\ISH\Alarm3\bin\Debug\K8055D.dll
+D:\ISH\Alarm3\obj\Debug\Alarm3.csprojAssemblyReference.cache
+D:\ISH\Alarm3\obj\Debug\Alarm3.Form1.resources
+D:\ISH\Alarm3\obj\Debug\Alarm3.Properties.Resources.resources
+D:\ISH\Alarm3\obj\Debug\Alarm3.csproj.GenerateResource.cache
+D:\ISH\Alarm3\obj\Debug\Alarm3.csproj.CoreCompileInputs.cache
+D:\ISH\Alarm3\obj\Debug\Alarm3.csproj.CopyComplete
+D:\ISH\Alarm3\obj\Debug\Alarm3.exe
+D:\ISH\Alarm3\obj\Debug\Alarm3.pdb
+C:\Users\joaom\Documents\GitHub\Alarm\Alarm3\bin\Debug\Alarm3.exe.config
+C:\Users\joaom\Documents\GitHub\Alarm\Alarm3\bin\Debug\Alarm3.exe
+C:\Users\joaom\Documents\GitHub\Alarm\Alarm3\bin\Debug\Alarm3.pdb
+C:\Users\joaom\Documents\GitHub\Alarm\Alarm3\bin\Debug\K8055D.dll
+C:\Users\joaom\Documents\GitHub\Alarm\Alarm3\obj\Debug\Alarm3.csprojAssemblyReference.cache
+C:\Users\joaom\Documents\GitHub\Alarm\Alarm3\obj\Debug\Alarm3.Form1.resources
+C:\Users\joaom\Documents\GitHub\Alarm\Alarm3\obj\Debug\Alarm3.Properties.Resources.resources
+C:\Users\joaom\Documents\GitHub\Alarm\Alarm3\obj\Debug\Alarm3.csproj.GenerateResource.cache
+C:\Users\joaom\Documents\GitHub\Alarm\Alarm3\obj\Debug\Alarm3.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Documents\GitHub\Alarm\Alarm3\obj\Debug\Alarm3.csproj.CopyComplete
+C:\Users\joaom\Documents\GitHub\Alarm\Alarm3\obj\Debug\Alarm3.exe
+C:\Users\joaom\Documents\GitHub\Alarm\Alarm3\obj\Debug\Alarm3.pdb
+C:\Users\joaom\Documents\GitHub\Alarm\Alarm3\bin\Debug\GemBox.Email.dll
+D:\ISH\Alarm3\bin\Debug\GemBox.Email.dll
+G:\Documentos\UBI\OneDrive - Universidade da Beira Interior\MEI\1.º ano\2.º semestre\Interfaces Software-Hardware\TM\Alarm\Alarm3\bin\Debug\Alarm3.exe.config
+G:\Documentos\UBI\OneDrive - Universidade da Beira Interior\MEI\1.º ano\2.º semestre\Interfaces Software-Hardware\TM\Alarm\Alarm3\bin\Debug\Alarm3.exe
+G:\Documentos\UBI\OneDrive - Universidade da Beira Interior\MEI\1.º ano\2.º semestre\Interfaces Software-Hardware\TM\Alarm\Alarm3\bin\Debug\Alarm3.pdb
+G:\Documentos\UBI\OneDrive - Universidade da Beira Interior\MEI\1.º ano\2.º semestre\Interfaces Software-Hardware\TM\Alarm\Alarm3\bin\Debug\GemBox.Email.dll
+G:\Documentos\UBI\OneDrive - Universidade da Beira Interior\MEI\1.º ano\2.º semestre\Interfaces Software-Hardware\TM\Alarm\Alarm3\bin\Debug\K8055D.dll
+G:\Documentos\UBI\OneDrive - Universidade da Beira Interior\MEI\1.º ano\2.º semestre\Interfaces Software-Hardware\TM\Alarm\Alarm3\obj\Debug\Alarm3.csprojAssemblyReference.cache
+G:\Documentos\UBI\OneDrive - Universidade da Beira Interior\MEI\1.º ano\2.º semestre\Interfaces Software-Hardware\TM\Alarm\Alarm3\obj\Debug\Alarm3.Form1.resources
+G:\Documentos\UBI\OneDrive - Universidade da Beira Interior\MEI\1.º ano\2.º semestre\Interfaces Software-Hardware\TM\Alarm\Alarm3\obj\Debug\Alarm3.Properties.Resources.resources
+G:\Documentos\UBI\OneDrive - Universidade da Beira Interior\MEI\1.º ano\2.º semestre\Interfaces Software-Hardware\TM\Alarm\Alarm3\obj\Debug\Alarm3.csproj.GenerateResource.cache
+G:\Documentos\UBI\OneDrive - Universidade da Beira Interior\MEI\1.º ano\2.º semestre\Interfaces Software-Hardware\TM\Alarm\Alarm3\obj\Debug\Alarm3.csproj.CoreCompileInputs.cache
+G:\Documentos\UBI\OneDrive - Universidade da Beira Interior\MEI\1.º ano\2.º semestre\Interfaces Software-Hardware\TM\Alarm\Alarm3\obj\Debug\Alarm3.csproj.CopyComplete
+G:\Documentos\UBI\OneDrive - Universidade da Beira Interior\MEI\1.º ano\2.º semestre\Interfaces Software-Hardware\TM\Alarm\Alarm3\obj\Debug\Alarm3.exe
+G:\Documentos\UBI\OneDrive - Universidade da Beira Interior\MEI\1.º ano\2.º semestre\Interfaces Software-Hardware\TM\Alarm\Alarm3\obj\Debug\Alarm3.pdb
+G:\Documentos\UBI\OneDrive - Universidade da Beira Interior\MEI\1.º ano\2.º semestre\Interfaces Software-Hardware\TM\Alarm\Alarm3\bin\Debug\sound\Alarm.wav
+G:\Documentos\UBI\OneDrive - Universidade da Beira Interior\MEI\1.º ano\2.º semestre\Interfaces Software-Hardware\TM\Alarm\Alarm3\obj\Debug\Alarm3.About.resources
+G:\Documentos\UBI\OneDrive - Universidade da Beira Interior\MEI\1.º ano\2.º semestre\Interfaces Software-Hardware\TM\Alarm\Alarm3\obj\Debug\Alarm3.AlarmPin.resources
+C:\Users\joaom\Documents\CENAS\Alarm\Alarm3\bin\Debug\sound\Alarm.wav
+C:\Users\joaom\Documents\CENAS\Alarm\Alarm3\bin\Debug\Alarm3.exe.config
+C:\Users\joaom\Documents\CENAS\Alarm\Alarm3\bin\Debug\Alarm3.exe
+C:\Users\joaom\Documents\CENAS\Alarm\Alarm3\bin\Debug\Alarm3.pdb
+C:\Users\joaom\Documents\CENAS\Alarm\Alarm3\bin\Debug\GemBox.Email.dll
+C:\Users\joaom\Documents\CENAS\Alarm\Alarm3\bin\Debug\K8055D.dll
+C:\Users\joaom\Documents\CENAS\Alarm\Alarm3\obj\Debug\Alarm3.csprojAssemblyReference.cache
+C:\Users\joaom\Documents\CENAS\Alarm\Alarm3\obj\Debug\Alarm3.About.resources
+C:\Users\joaom\Documents\CENAS\Alarm\Alarm3\obj\Debug\Alarm3.AlarmPin.resources
+C:\Users\joaom\Documents\CENAS\Alarm\Alarm3\obj\Debug\Alarm3.Form1.resources
+C:\Users\joaom\Documents\CENAS\Alarm\Alarm3\obj\Debug\Alarm3.Properties.Resources.resources
+C:\Users\joaom\Documents\CENAS\Alarm\Alarm3\obj\Debug\Alarm3.csproj.GenerateResource.cache
+C:\Users\joaom\Documents\CENAS\Alarm\Alarm3\obj\Debug\Alarm3.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Documents\CENAS\Alarm\Alarm3\obj\Debug\Alarm3.csproj.CopyComplete
+C:\Users\joaom\Documents\CENAS\Alarm\Alarm3\obj\Debug\Alarm3.exe
+C:\Users\joaom\Documents\CENAS\Alarm\Alarm3\obj\Debug\Alarm3.pdb
+G:\Documentos\UBI\OneDrive - Universidade da Beira Interior\MEI\1.º ano\2.º semestre\Interfaces Software-Hardware\TM\Alarm\Alarm3\obj\Debug\Alarm3.Help.resources
+C:\Users\joaom\Documents\FINAL\Alarm\Alarm3\bin\Debug\sound\Alarm.wav
+C:\Users\joaom\Documents\FINAL\Alarm\Alarm3\bin\Debug\Alarm3.exe.config
+C:\Users\joaom\Documents\FINAL\Alarm\Alarm3\bin\Debug\Alarm3.exe
+C:\Users\joaom\Documents\FINAL\Alarm\Alarm3\bin\Debug\Alarm3.pdb
+C:\Users\joaom\Documents\FINAL\Alarm\Alarm3\bin\Debug\GemBox.Email.dll
+C:\Users\joaom\Documents\FINAL\Alarm\Alarm3\bin\Debug\K8055D.dll
+C:\Users\joaom\Documents\FINAL\Alarm\Alarm3\obj\Debug\Alarm3.csprojAssemblyReference.cache
+C:\Users\joaom\Documents\FINAL\Alarm\Alarm3\obj\Debug\Alarm3.About.resources
+C:\Users\joaom\Documents\FINAL\Alarm\Alarm3\obj\Debug\Alarm3.AlarmPin.resources
+C:\Users\joaom\Documents\FINAL\Alarm\Alarm3\obj\Debug\Alarm3.Form1.resources
+C:\Users\joaom\Documents\FINAL\Alarm\Alarm3\obj\Debug\Alarm3.Help.resources
+C:\Users\joaom\Documents\FINAL\Alarm\Alarm3\obj\Debug\Alarm3.Properties.Resources.resources
+C:\Users\joaom\Documents\FINAL\Alarm\Alarm3\obj\Debug\Alarm3.csproj.GenerateResource.cache
+C:\Users\joaom\Documents\FINAL\Alarm\Alarm3\obj\Debug\Alarm3.csproj.CoreCompileInputs.cache
+C:\Users\joaom\Documents\FINAL\Alarm\Alarm3\obj\Debug\Alarm3.csproj.CopyComplete
+C:\Users\joaom\Documents\FINAL\Alarm\Alarm3\obj\Debug\Alarm3.exe
+C:\Users\joaom\Documents\FINAL\Alarm\Alarm3\obj\Debug\Alarm3.pdb
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master\Alarm3\bin\Debug\sound\Alarm.wav
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master\Alarm3\bin\Debug\Alarm3.exe.config
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master\Alarm3\bin\Debug\Alarm3.exe
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master\Alarm3\bin\Debug\Alarm3.pdb
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master\Alarm3\bin\Debug\GemBox.Email.dll
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master\Alarm3\bin\Debug\K8055D.dll
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master\Alarm3\obj\Debug\Alarm3.csprojAssemblyReference.cache
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master\Alarm3\obj\Debug\Alarm3.AlarmPin.resources
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master\Alarm3\obj\Debug\Alarm3.Form1.resources
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master\Alarm3\obj\Debug\Alarm3.Properties.Resources.resources
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master\Alarm3\obj\Debug\Alarm3.csproj.GenerateResource.cache
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master\Alarm3\obj\Debug\Alarm3.csproj.CoreCompileInputs.cache
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master\Alarm3\obj\Debug\Alarm3.csproj.CopyComplete
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master\Alarm3\obj\Debug\Alarm3.exe
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master\Alarm3\obj\Debug\Alarm3.pdb
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master\Alarm3\bin\Debug\aa-ER\Alarm3.resources.dll
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master\Alarm3\obj\Debug\Alarm3.Form1.aa-ER.resources
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master\Alarm3\obj\Debug\aa-ER\Alarm3.resources.dll
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master\Alarm3\bin\Debug\Guna.UI2.dll
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v3\Alarm3\bin\Debug\sound\Alarm.wav
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v3\Alarm3\bin\Debug\Alarm3.exe.config
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v3\Alarm3\bin\Debug\Alarm3.exe
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v3\Alarm3\bin\Debug\Alarm3.pdb
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v3\Alarm3\bin\Debug\GemBox.Email.dll
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v3\Alarm3\bin\Debug\Guna.UI2.dll
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v3\Alarm3\bin\Debug\K8055D.dll
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v3\Alarm3\obj\Debug\Alarm3.csprojAssemblyReference.cache
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v3\Alarm3\obj\Debug\Alarm3.AlarmPin.resources
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v3\Alarm3\obj\Debug\Alarm3.Form1.resources
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v3\Alarm3\obj\Debug\Alarm3.Properties.Resources.resources
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v3\Alarm3\obj\Debug\Alarm3.csproj.GenerateResource.cache
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v3\Alarm3\obj\Debug\Alarm3.csproj.CoreCompileInputs.cache
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v3\Alarm3\obj\Debug\Alarm3.csproj.CopyComplete
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v3\Alarm3\obj\Debug\Alarm3.exe
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v3\Alarm3\obj\Debug\Alarm3.pdb
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v5\Alarm3\bin\Debug\sound\Alarm.wav
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v5\Alarm3\bin\Debug\Alarm3.exe.config
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v5\Alarm3\bin\Debug\Alarm3.exe
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v5\Alarm3\bin\Debug\Alarm3.pdb
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v5\Alarm3\bin\Debug\GemBox.Email.dll
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v5\Alarm3\bin\Debug\Guna.UI2.dll
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v5\Alarm3\bin\Debug\K8055D.dll
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v5\Alarm3\obj\Debug\Alarm3.csprojAssemblyReference.cache
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v5\Alarm3\obj\Debug\Alarm3.AlarmPin.resources
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v5\Alarm3\obj\Debug\Alarm3.Form1.resources
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v5\Alarm3\obj\Debug\Alarm3.Properties.Resources.resources
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v5\Alarm3\obj\Debug\Alarm3.csproj.GenerateResource.cache
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v5\Alarm3\obj\Debug\Alarm3.csproj.CoreCompileInputs.cache
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v5\Alarm3\obj\Debug\Alarm3.csproj.CopyComplete
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v5\Alarm3\obj\Debug\Alarm3.exe
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v5\Alarm3\obj\Debug\Alarm3.pdb
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v6\Alarm3\bin\Debug\sound\Alarm.wav
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v6\Alarm3\bin\Debug\Alarm3.exe.config
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v6\Alarm3\bin\Debug\Alarm3.exe
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v6\Alarm3\bin\Debug\Alarm3.pdb
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v6\Alarm3\bin\Debug\GemBox.Email.dll
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v6\Alarm3\bin\Debug\Guna.UI2.dll
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v6\Alarm3\bin\Debug\K8055D.dll
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v6\Alarm3\obj\Debug\Alarm3.csprojAssemblyReference.cache
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v6\Alarm3\obj\Debug\Alarm3.AlarmPin.resources
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v6\Alarm3\obj\Debug\Alarm3.Form1.resources
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v6\Alarm3\obj\Debug\Alarm3.Properties.Resources.resources
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v6\Alarm3\obj\Debug\Alarm3.csproj.GenerateResource.cache
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v6\Alarm3\obj\Debug\Alarm3.csproj.CoreCompileInputs.cache
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v6\Alarm3\obj\Debug\Alarm3.csproj.CopyComplete
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v6\Alarm3\obj\Debug\Alarm3.exe
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v6\Alarm3\obj\Debug\Alarm3.pdb
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v7\Alarm3\bin\Debug\sound\Alarm.wav
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v7\Alarm3\bin\Debug\Alarm3.exe.config
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v7\Alarm3\bin\Debug\Alarm3.exe
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v7\Alarm3\bin\Debug\Alarm3.pdb
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v7\Alarm3\bin\Debug\GemBox.Email.dll
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v7\Alarm3\bin\Debug\Guna.UI2.dll
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v7\Alarm3\bin\Debug\K8055D.dll
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v7\Alarm3\obj\Debug\Alarm3.csprojAssemblyReference.cache
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v7\Alarm3\obj\Debug\Alarm3.AlarmPin.resources
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v7\Alarm3\obj\Debug\Alarm3.Form1.resources
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v7\Alarm3\obj\Debug\Alarm3.Properties.Resources.resources
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v7\Alarm3\obj\Debug\Alarm3.csproj.GenerateResource.cache
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v7\Alarm3\obj\Debug\Alarm3.csproj.CoreCompileInputs.cache
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v7\Alarm3\obj\Debug\Alarm3.csproj.CopyComplete
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v7\Alarm3\obj\Debug\Alarm3.exe
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v7\Alarm3\obj\Debug\Alarm3.pdb
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v8\Alarm3\bin\Debug\sound\Alarm.wav
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v8\Alarm3\bin\Debug\Alarm3.exe.config
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v8\Alarm3\bin\Debug\Alarm3.exe
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v8\Alarm3\bin\Debug\Alarm3.pdb
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v8\Alarm3\bin\Debug\GemBox.Email.dll
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v8\Alarm3\bin\Debug\Guna.UI2.dll
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v8\Alarm3\bin\Debug\K8055D.dll
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v8\Alarm3\obj\Debug\Alarm3.csprojAssemblyReference.cache
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v8\Alarm3\obj\Debug\Alarm3.AlarmPin.resources
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v8\Alarm3\obj\Debug\Alarm3.Form1.resources
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v8\Alarm3\obj\Debug\Alarm3.Properties.Resources.resources
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v8\Alarm3\obj\Debug\Alarm3.csproj.GenerateResource.cache
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v8\Alarm3\obj\Debug\Alarm3.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v8\Alarm3\obj\Debug\Alarm3.csproj.CopyComplete
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v8\Alarm3\obj\Debug\Alarm3.exe
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v8\Alarm3\obj\Debug\Alarm3.pdb
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v9\Alarm3\bin\Debug\sound\Alarm.wav
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v9\Alarm3\bin\Debug\Alarm3.exe.config
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v9\Alarm3\bin\Debug\Alarm3.exe
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v9\Alarm3\bin\Debug\Alarm3.pdb
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v9\Alarm3\bin\Debug\GemBox.Email.dll
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v9\Alarm3\bin\Debug\Guna.UI2.dll
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v9\Alarm3\bin\Debug\K8055D.dll
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v9\Alarm3\obj\Debug\Alarm3.csprojAssemblyReference.cache
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v9\Alarm3\obj\Debug\Alarm3.AlarmPin.resources
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v9\Alarm3\obj\Debug\Alarm3.Form1.resources
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v9\Alarm3\obj\Debug\Alarm3.Properties.Resources.resources
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v9\Alarm3\obj\Debug\Alarm3.csproj.GenerateResource.cache
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v9\Alarm3\obj\Debug\Alarm3.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v9\Alarm3\obj\Debug\Alarm3.csproj.CopyComplete
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v9\Alarm3\obj\Debug\Alarm3.exe
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v9\Alarm3\obj\Debug\Alarm3.pdb
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v10(no credentials)\Alarm3\bin\Debug\sound\Alarm.wav
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v10(no credentials)\Alarm3\bin\Debug\Alarm3.exe.config
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v10(no credentials)\Alarm3\bin\Debug\Alarm3.exe
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v10(no credentials)\Alarm3\bin\Debug\Alarm3.pdb
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v10(no credentials)\Alarm3\bin\Debug\GemBox.Email.dll
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v10(no credentials)\Alarm3\bin\Debug\Guna.UI2.dll
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v10(no credentials)\Alarm3\bin\Debug\K8055D.dll
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v10(no credentials)\Alarm3\obj\Debug\Alarm3.csprojAssemblyReference.cache
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v10(no credentials)\Alarm3\obj\Debug\Alarm3.AlarmPin.resources
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v10(no credentials)\Alarm3\obj\Debug\Alarm3.Form1.resources
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v10(no credentials)\Alarm3\obj\Debug\Alarm3.Properties.Resources.resources
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v10(no credentials)\Alarm3\obj\Debug\Alarm3.csproj.GenerateResource.cache
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v10(no credentials)\Alarm3\obj\Debug\Alarm3.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v10(no credentials)\Alarm3\obj\Debug\Alarm3.csproj.CopyComplete
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v10(no credentials)\Alarm3\obj\Debug\Alarm3.exe
+C:\Users\Antonio\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Alarm-master_v10(no credentials)\Alarm3\obj\Debug\Alarm3.pdb
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\bin\Debug\sound\Alarm.wav
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\bin\Debug\Alarm3.exe.config
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\bin\Debug\Alarm3.exe
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\bin\Debug\Alarm3.pdb
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\bin\Debug\GemBox.Email.dll
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\bin\Debug\Guna.UI2.dll
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\bin\Debug\K8055D.dll
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\obj\Debug\Alarm3.csprojAssemblyReference.cache
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\obj\Debug\Alarm3.AlarmPin.resources
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\obj\Debug\Alarm3.Form1.resources
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\obj\Debug\Alarm3.Properties.Resources.resources
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\obj\Debug\Alarm3.csproj.GenerateResource.cache
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\obj\Debug\Alarm3.csproj.CoreCompileInputs.cache
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\obj\Debug\Alarm3.csproj.CopyComplete
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\obj\Debug\Alarm3.exe
+G:\OneDrive - Universidade da Beira Interior\EI\Mestrado\1 ano\IHS\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\obj\Debug\Alarm3.pdb
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\bin\Debug\sound\Alarm.wav
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\bin\Debug\Alarm3.exe.config
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\bin\Debug\Alarm3.exe
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\bin\Debug\Alarm3.pdb
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\bin\Debug\GemBox.Email.dll
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\bin\Debug\Guna.UI2.dll
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\bin\Debug\K8055D.dll
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\obj\Debug\Alarm3.csproj.AssemblyReference.cache
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\obj\Debug\Alarm3.AlarmPin.resources
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\obj\Debug\Alarm3.Form1.resources
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\obj\Debug\Alarm3.Properties.Resources.resources
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\obj\Debug\Alarm3.csproj.GenerateResource.cache
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\obj\Debug\Alarm3.csproj.CoreCompileInputs.cache
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\obj\Debug\Alarm3.csproj.CopyComplete
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\obj\Debug\Alarm3.exe
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\TP3\TM\Grupo4_IHS_TP3_codigo\Alarm3\obj\Debug\Alarm3.pdb
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\Grupo3_IHS_TP2_codigo\Alarm3\obj\Debug\Alarm3.csproj.AssemblyReference.cache
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\Grupo3_IHS_TP2_codigo\Alarm3\obj\Debug\Alarm3.AlarmPin.resources
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\Grupo3_IHS_TP2_codigo\Alarm3\obj\Debug\Alarm3.Form1.resources
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\Grupo3_IHS_TP2_codigo\Alarm3\obj\Debug\Alarm3.Properties.Resources.resources
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\Grupo3_IHS_TP2_codigo\Alarm3\obj\Debug\Alarm3.csproj.GenerateResource.cache
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\Grupo3_IHS_TP2_codigo\Alarm3\obj\Debug\Alarm3.csproj.CoreCompileInputs.cache
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\Grupo3_IHS_TP2_codigo\Alarm3\obj\Debug\Alarm3.exe
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\Grupo3_IHS_TP2_codigo\Alarm3\obj\Debug\Alarm3.pdb
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\Grupo3_IHS_TP2_codigo\Alarm3\bin\Debug\sound\Alarm.wav
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\Grupo3_IHS_TP2_codigo\Alarm3\bin\Debug\Alarm3.exe.config
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\Grupo3_IHS_TP2_codigo\Alarm3\bin\Debug\Alarm3.exe
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\Grupo3_IHS_TP2_codigo\Alarm3\bin\Debug\Alarm3.pdb
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\Grupo3_IHS_TP2_codigo\Alarm3\bin\Debug\GemBox.Email.dll
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\Grupo3_IHS_TP2_codigo\Alarm3\bin\Debug\K8055D.dll
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\2tp\Grupo3_IHS_TP2_codigo\Alarm3\obj\Debug\Alarm3.csproj.CopyComplete
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\trabalhos\G03_TP2\Grupo3_IHS_TP2_codigo\Alarm3\bin\Debug\sound\Alarm.wav
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\trabalhos\G03_TP2\Grupo3_IHS_TP2_codigo\Alarm3\bin\Debug\Alarm3.exe.config
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\trabalhos\G03_TP2\Grupo3_IHS_TP2_codigo\Alarm3\bin\Debug\Alarm3.exe
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\trabalhos\G03_TP2\Grupo3_IHS_TP2_codigo\Alarm3\bin\Debug\Alarm3.pdb
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\trabalhos\G03_TP2\Grupo3_IHS_TP2_codigo\Alarm3\bin\Debug\GemBox.Email.dll
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\trabalhos\G03_TP2\Grupo3_IHS_TP2_codigo\Alarm3\bin\Debug\K8055D.dll
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\trabalhos\G03_TP2\Grupo3_IHS_TP2_codigo\Alarm3\obj\Debug\Alarm3.csproj.AssemblyReference.cache
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\trabalhos\G03_TP2\Grupo3_IHS_TP2_codigo\Alarm3\obj\Debug\Alarm3.AlarmPin.resources
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\trabalhos\G03_TP2\Grupo3_IHS_TP2_codigo\Alarm3\obj\Debug\Alarm3.Form1.resources
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\trabalhos\G03_TP2\Grupo3_IHS_TP2_codigo\Alarm3\obj\Debug\Alarm3.Properties.Resources.resources
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\trabalhos\G03_TP2\Grupo3_IHS_TP2_codigo\Alarm3\obj\Debug\Alarm3.csproj.GenerateResource.cache
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\trabalhos\G03_TP2\Grupo3_IHS_TP2_codigo\Alarm3\obj\Debug\Alarm3.csproj.CoreCompileInputs.cache
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\trabalhos\G03_TP2\Grupo3_IHS_TP2_codigo\Alarm3\obj\Debug\Alarm3.csproj.CopyComplete
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\trabalhos\G03_TP2\Grupo3_IHS_TP2_codigo\Alarm3\obj\Debug\Alarm3.exe
+C:\Users\in-ba\Desktop\things\Mestrado\1ano\IHS\trabalhos\G03_TP2\Grupo3_IHS_TP2_codigo\Alarm3\obj\Debug\Alarm3.pdb
